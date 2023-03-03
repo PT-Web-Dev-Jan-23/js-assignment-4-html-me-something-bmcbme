@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+#mainHeading{
+    color:red
+}
+body {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 15%;
+    margin-right:15%
+}
+.funParagraph{
+    color:green
+}
+#testP{
+    color:green
+}
+img {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
